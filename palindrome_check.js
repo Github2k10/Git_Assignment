@@ -12,7 +12,8 @@ for(i=0; i<=str.length-1; i++){
 
 }
 }
-//if(bag===str){console.log("yes")}
-//else {console.log("no")}
+if(bag===str){console.log("yes")
+}else{
+  console.log("no")
+}
 
-//Just remove the // from the if else statement
